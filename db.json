@@ -160,5 +160,23 @@
       "instructor": "Matt Lane",
       "category": "Others"
     }
+  ],
+  "Category": [
+    {
+      "id": "1",
+      "category": "Web Development"
+    },
+    {
+      "id": "2",
+      "category": "FullStack Development"
+    },
+    {
+      "id": "3",
+      "category": "API Development"
+    },
+    {
+      "id": "4",
+      "category": "Others"
+    }
   ]
 }
