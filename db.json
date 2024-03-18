@@ -4,10 +4,11 @@
       "id": "1",
       "title": "The Advanced Web Developer Bootcamp",
       "description": "Learn React 16, Redux, D3, ES2015, Testing, CSS Flexbox, Animations, SVG, AJAX, and more!",
-      "image": "https://img-c.udemycdn.com/course/750x422/1218586_9f86.jpg",
+      "image": "./images/courses/1.jpg",
       "price": 599,
       "ratings": 4.6,
-      "instructor": "Matt Lane"
+      "instructor": "Matt Lane",
+      "category": "Web Development"
     },
     {
       "id": "2",
@@ -16,7 +17,8 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeik6UoYK2cE1XvcURJkMEEDRl4u8ieVg9Vy2-lMNtzg&s",
       "price": 599,
       "ratings": 4.5,
-      "instructor": "Stephen Curry"
+      "instructor": "Stephen Curry",
+      "category": "API Development"
     },
     {
       "id": "3",
@@ -25,7 +27,8 @@
       "image": "https://img-c.udemycdn.com/course/480x270/2610396_87af.jpg",
       "price": 699,
       "ratings": 5,
-      "instructor": "Lebron james"
+      "instructor": "Lebron james",
+      "category": "FullStack Development"
     },
     {
       "id": "4",
@@ -34,7 +37,8 @@
       "image": "https://img-c.udemycdn.com/course/750x422/4324404_a822_2.jpg",
       "price": 599,
       "ratings": 5,
-      "instructor": "Michael Jordan"
+      "instructor": "Michael Jordan",
+      "category": "Web Development"
     },
     {
       "id": "5",
@@ -43,7 +47,8 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVB7D5s28S_RUckMWEXs908OiTQtS-jlsVSxtdfhKAaA&s",
       "price": 699,
       "ratings": 5,
-      "instructor": "Shaquille O'Neal"
+      "instructor": "Shaquille O'Neal",
+      "category": "Web Development"
     },
     {
       "id": "6",
@@ -52,7 +57,8 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVB7D5s28S_RUckMWEXs908OiTQtS-jlsVSxtdfhKAaA&s",
       "price": 699,
       "ratings": 5,
-      "instructor": "Shaquille O'Neal"
+      "instructor": "Shaquille O'Neal",
+      "category": "Web Development"
     },
     {
       "id": "7",
@@ -61,7 +67,8 @@
       "image": "https://img-c.udemycdn.com/course/750x422/1286908_1773_6.jpg",
       "price": 999,
       "ratings": 4,
-      "instructor": "Alyssa Valdez"
+      "instructor": "Alyssa Valdez",
+      "category": "Web Development"
     },
     {
       "id": "8",
@@ -70,7 +77,8 @@
       "image": "https://img-c.udemycdn.com/course/750x422/4336818_1ff0_3.jpg",
       "price": 799,
       "ratings": 5,
-      "instructor": "Jema galanza"
+      "instructor": "Jema galanza",
+      "category": "FullStack Development"
     },
     {
       "id": "9",
@@ -79,7 +87,8 @@
       "image": "https://img-c.udemycdn.com/course/750x422/2175232_482b_6.jpg",
       "price": 899,
       "ratings": 5,
-      "instructor": "Mylene Paat"
+      "instructor": "Mylene Paat",
+      "category": "Web Development"
     },
     {
       "id": "10",
@@ -88,7 +97,8 @@
       "image": "https://img-b.udemycdn.com/course/750x422/4735236_c6b7_2.jpg",
       "price": 599,
       "ratings": 5,
-      "instructor": "Rachel Daquis"
+      "instructor": "Rachel Daquis",
+      "category": "Web Development"
     },
     {
       "id": "11",
@@ -97,7 +107,8 @@
       "image": "https://img-c.udemycdn.com/course/750x422/4541990_e807_2.jpg",
       "price": 699,
       "ratings": 5,
-      "instructor": "Isabel Sieh"
+      "instructor": "Isabel Sieh",
+      "category": "API Development"
     },
     {
       "id": "12",
@@ -106,7 +117,8 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50uP2xf7uQyyIW6RnN9xehOsj3UOUDwQzCiiwjkkYrQ&s",
       "price": 599,
       "ratings": 5,
-      "instructor": "Jerick Javier"
+      "instructor": "Jerick Javier",
+      "category": "FullStack Development"
     },
     {
       "id": "13",
@@ -115,7 +127,8 @@
       "image": "https://img-c.udemycdn.com/course/750x422/4697814_a702.jpg",
       "price": 599,
       "ratings": 5,
-      "instructor": "Elmer Paulino"
+      "instructor": "Elmer Paulino",
+      "category": "Web Development"
     },
     {
       "id": "14",
@@ -124,7 +137,8 @@
       "image": "https://img-c.udemycdn.com/course/480x270/3874004_9d64_3.jpg",
       "price": 599,
       "ratings": 5,
-      "instructor": "Kevin Atienza"
+      "instructor": "Kevin Atienza",
+      "category": "FullStack Development"
     },
     {
       "id": "15",
@@ -133,7 +147,8 @@
       "image": "https://img-c.udemycdn.com/course/750x422/4341426_861f_2.jpg",
       "price": 599,
       "ratings": 5,
-      "instructor": "Dale Moncayo"
+      "instructor": "Dale Moncayo",
+      "category": "FullStack Development"
     },
     {
       "id": "912d",
@@ -142,7 +157,8 @@
       "image": "https://img-c.udemycdn.com/course/750x422/1218586_9f86.jpg",
       "price": 599,
       "ratings": 4.6,
-      "instructor": "Matt Lane"
+      "instructor": "Matt Lane",
+      "category": "Others"
     }
   ]
 }
