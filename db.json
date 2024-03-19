@@ -4,7 +4,7 @@
       "id": "1",
       "title": "The Advanced Web Developer Bootcamp",
       "description": "Learn React 16, Redux, D3, ES2015, Testing, CSS Flexbox, Animations, SVG, AJAX, and more!",
-      "image": "https://img-c.udemycdn.com/course/750x422/1218586_9f86.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVB7D5s28S_RUckMWEXs908OiTQtS-jlsVSxtdfhKAaA&s",
       "price": 599,
       "ratings": 4.6,
       "instructor": "Matt Lane",
@@ -156,8 +156,18 @@
       "description": "Learn React 16, Redux, D3, ES2015, Testing, CSS Flexbox, Animations, SVG, AJAX, and more!",
       "image": "https://img-c.udemycdn.com/course/750x422/1218586_9f86.jpg",
       "price": 599,
-      "ratings": 4.6,
+      "ratings": 4.5,
       "instructor": "Matt Lane",
+      "category": "Others"
+    },
+    {
+      "id": "",
+      "title": "Testing",
+      "description": "Learn Axios",
+      "image": "https://miro.medium.com/v2/resize:fit:783/1*SKHE08zaL2H2-AHfGo8xqQ.png",
+      "price": 699,
+      "ratings": 4.5,
+      "instructor": "Von Alfafara",
       "category": "Others"
     }
   ],
